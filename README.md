@@ -35,5 +35,5 @@ By decoupling the computational core from rigid, platform-dependent source compi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/VinaFlow-Architect.git](https://github.com/YOUR_USERNAME/VinaFlow-Architect.git)
+git clone [https://github.com/MyMKGitH/VinaFlow-Architect.git](https://github.com/MyMKGitH/VinaFlow-Architect.git)
 cd VinaFlow-Architect
