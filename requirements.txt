@@ -1,0 +1,10 @@
+streamlit
+rdkit
+meeko
+pubchempy
+numpy
+stmol
+py3Dmol
+scipy
+gemmi
+ipython_genutils
