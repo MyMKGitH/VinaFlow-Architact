@@ -19,8 +19,8 @@ os.makedirs(WORKING_DIR, exist_ok=True)
 if not os.getcwd().endswith(WORKING_DIR):
     os.chdir(WORKING_DIR)
 
-st.set_page_config(page_title="VinaFlow Architect v2.0.0", layout="wide")
-st.title("🧬 VinaFlow Architect `v2.0.0` (Cross-Platform CLI Engine)")
+st.set_page_config(page_title="VinaFlow Architect v2.1.0", layout="wide")
+st.title("🧬 VinaFlow Architect `v2.1.0` (Cross-Platform CLI Engine)")
 st.caption("Automated High-Throughput Molecular Docking & Structural Analysis Pipeline")
 
 # --- CROSS-PLATFORM BINARY ROUTER ---
