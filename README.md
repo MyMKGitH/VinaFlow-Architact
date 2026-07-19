@@ -40,4 +40,4 @@ cd VinaFlow-Architect
 
 ---
 
-[![DOI](https://zenodo.org/badge/1276759116.svg)](https://doi.org/10.5281/zenodo.21442287)
+### [![DOI](https://zenodo.org/badge/1276759116.svg)](https://doi.org/10.5281/zenodo.21442287)
