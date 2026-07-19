@@ -30,6 +30,8 @@ By decoupling the computational core from rigid, platform-dependent source compi
 * **Visualization:** WebGL, py3Dmol, stmol
 
 ---
+[![DOI](https://zenodo.org/badge/1276759116.svg)](https://doi.org/10.5281/zenodo.21442287)
+---
 
 ## 📦 Installation & Local Setup
 
@@ -37,7 +39,3 @@ By decoupling the computational core from rigid, platform-dependent source compi
 ```bash
 git clone [https://github.com/MyMKGitH/VinaFlow-Architect.git](https://github.com/MyMKGitH/VinaFlow-Architect.git)
 cd VinaFlow-Architect
-
----
-
-### [![DOI](https://zenodo.org/badge/1276759116.svg)](https://doi.org/10.5281/zenodo.21442287)
